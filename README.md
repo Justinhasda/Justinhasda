@@ -14,16 +14,20 @@ Skills: HTML / CSS / BOOTSTRAP / JAVA SCRIPT /  PHP / MySQL/
 - 👯 I’m looking to collaborate on github 
 
 
-## My Workspace:
-<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"></br>
-<img height=40 src="https://img.shields.io/badge/Zen 2-Ryzen%203700X-%23ED1C24?style=for-the-badge&logo=AMD"></br>
-<img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 16 GB-%23ffd900?style=for-the-badge&logo=corsair"></br>
-<img height=40 src="https://img.shields.io/badge/RDNA%202-RX%206800-%23ED1C24?style=for-the-badge&logo=AMD"></br>
-<img height=40 src="https://img.shields.io/badge/ROG%20STRIX-B550--F-%23000000?style=for-the-badge&logo=asus"></br>
-<img height=40 src="https://img.shields.io/badge/Corsair-RM750x-%23ffd900?style=for-the-badge&logo=corsair"></br>
-<img height=40 src="https://img.shields.io/badge/WD__Black-SN750 500 GB-%23000000?style=for-the-badge&logo=westerndigital"></br>
-<img height=40 src="https://img.shields.io/badge/BarraCuda-2%20TB-%236EBE49?style=for-the-badge&logo=seagate"></br>
- 
+## Languages and Tools:
+<div>
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+  <img width=50px src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
+  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
+  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
+</div>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
