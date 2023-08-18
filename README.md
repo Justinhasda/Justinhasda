@@ -2,7 +2,7 @@
 ![Front-end Developer](https://pbs.twimg.com/profile_banners/1569332223899475968/1692395094/600x200)
 
 ### Hi there 👋
-## I am # Matheus Justin Hasda
+## I am Matheus Justin Hasda
 #### Front-end Developer
 
 I'm a passionate front-end web developer who thrives on coding and dedicates significant time to my craft. My laptop is my constant companion, reflecting my commitment to creating exceptional digital experiences.
