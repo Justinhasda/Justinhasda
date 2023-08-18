@@ -1,5 +1,5 @@
 
-![Front-end Developer](https://pbs.twimg.com/profile_banners/1569332223899475968/1692395094/800x300)
+![Front-end Developer](https://pbs.twimg.com/profile_banners/1569332223899475968/1692395094/600x200)
 
 ### Hi there 👋
 ## I am Matheus Justin Hasda
