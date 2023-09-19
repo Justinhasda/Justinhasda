@@ -1,7 +1,7 @@
 
 ![Front-end Developer](https://pbs.twimg.com/profile_banners/1569332223899475968/1692395094/600x200)
 
-### <h1>I'm Matheus Justin Hasda. A learner & Beginner Web Developer ☺️</h1>  
+### <h1>I'm Matheus Justin Hasda.</h1> <h3>A learner & Beginner Web Developer ☺️ </h3>
   
 
 - ***⚡ Fun fact: Turning caffeine into code, one line at a time.***  
@@ -38,7 +38,7 @@
 
 
 
-### DevOps  
+### Tools 
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
