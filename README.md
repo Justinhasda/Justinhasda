@@ -1,7 +1,7 @@
 
 ![Front-end Developer](https://pbs.twimg.com/profile_banners/1569332223899475968/1692395094/600x200)
 
-### <div align="center">I'm Matheus Justin Hasda. A learner & Beginner Web Developer ☺️</div>  
+### <h1>I'm Matheus Justin Hasda. A learner & Beginner Web Developer ☺️</h1>  
   
 
 - ***⚡ Fun fact: Turning caffeine into code, one line at a time.***  
